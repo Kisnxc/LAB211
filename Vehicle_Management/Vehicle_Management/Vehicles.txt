@@ -1,0 +1,5 @@
+car, C001, CR-V, RED, 50000, Honda, travel, 2020
+car, C002, E-CLASS, RED BLUE, 100000, Mercedes-Benz, travel, 2019
+motorbike, M001, MT-03, BROWN, 6000, Yamaha, 240, true
+motorbike, M002, SH MODE, DARK, 3000, Honda, 120, false
+car, C003, CAMRY, BLUE, 55000, Toyota, sport, 2019
